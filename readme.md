@@ -2,7 +2,7 @@
 
 Welcome to **Trollo Master**, a hands-on project from Jonas Schmedtmann’s **CSS Flexbox Course**. This project helps you master Flexbox by building a responsive, modern task management board similar to Trello.
 
-## 🔥 Live Demo 
+## 🔥 Live Demo (click on the picture)
 [<img src="img/TrilloSCR.png" width="400" />](https://daniiliev.github.io/Trillo/)
 
 ## 🚀 Project Overview
