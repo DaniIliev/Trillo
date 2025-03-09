@@ -46,11 +46,11 @@ TRILLO/
    ```
 2. Install dependencies:
    ```bash
-   npm i
+   npm install
    ```
 3. Build the project:
    ```bash
-   npm run build
+   npm run build:css
    ```
 4. Start the development server:
    ```bash
